@@ -17,7 +17,7 @@ Data acquired is cleansed using SQL queries here.
 [click here to view code](https://github.com/SagarSakhare/Sales-Insights-Performance-Dashboard/blob/main/Data%20Cleaning%20%26%20Exploration%20using%20SQL.sql)
 
 ### Analysis using SQL
-[Click here to view code](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Data%20Analysis%20using%20SQL.sql)
+[Click here to view code](https://github.com/SagarSakhare/Sales-Insights-Performance-Dashboard/blob/main/Data%20Analysis%20using%20SQL.sql)
 Queries:
 1. All tables and their rows in sales schema
 2. Date range in date table
